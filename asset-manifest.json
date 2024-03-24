@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.d9920a5c.js",
+    "main.js": "/static/js/main.c758b8d8.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -43,7 +43,9 @@
     "static/media/album11.png": "/static/media/album11.f99d9efd3a59bda6b937.png",
     "static/media/cover29.png": "/static/media/cover29.918dc8b708a9311f2dc2.png",
     "static/media/log44.png": "/static/media/log44.6bf4077d29c9398c47e0.png",
+    "static/media/cover45.png": "/static/media/cover45.53efec3d51368b3f7a66.png",
     "static/media/album13.png": "/static/media/album13.971eff148122ea618ae7.png",
+    "static/media/cover46.png": "/static/media/cover46.15aa43eb216c5c9cf95e.png",
     "static/media/cover20.png": "/static/media/cover20.0c12666c023071c40388.png",
     "static/media/cover23.png": "/static/media/cover23.d5c4f8d56b7f95c3f7f6.png",
     "static/media/cover17.png": "/static/media/cover17.d6c57a382f2e9593a58e.png",
@@ -69,7 +71,9 @@
     "static/media/cover16.png": "/static/media/cover16.9e9e3f85b42b7ccb8f64.png",
     "static/media/cover38.png": "/static/media/cover38.8024b0201b5cf489a5e3.png",
     "static/media/log32.png": "/static/media/log32.919d5e106109f96b58fa.png",
+    "static/media/cover42.png": "/static/media/cover42.b3637485b8847a039748.png",
     "static/media/cover8.png": "/static/media/cover8.e20cab9937494867ab19.png",
+    "static/media/cover49.png": "/static/media/cover49.1186de1e858a60e1517a.png",
     "static/media/cover1.png": "/static/media/cover1.5cdea0674306ee29da92.png",
     "static/media/cover26.png": "/static/media/cover26.7df9b4bfb2c9a770d442.png",
     "static/media/log28.png": "/static/media/log28.aaa510be81c2bd6d8a15.png",
@@ -91,12 +95,16 @@
     "static/media/cover9.png": "/static/media/cover9.775569cf5afb539e699a.png",
     "static/media/cover15.png": "/static/media/cover15.a3c83b7a7c2ebe5662c7.png",
     "static/media/cover14.png": "/static/media/cover14.3ed7d4b2005bbef32619.png",
+    "static/media/cover43.png": "/static/media/cover43.07bad8cae3eef29a2c5e.png",
+    "static/media/cover47.png": "/static/media/cover47.3cee0abcdf6f06cc8fc2.png",
     "static/media/album7.png": "/static/media/album7.8178186134e9d5e00dd2.png",
     "static/media/log34.png": "/static/media/log34.1016a8adec4e2ef75e4d.png",
+    "static/media/cover44.png": "/static/media/cover44.2507f7905f498dd1c07f.png",
     "static/media/cover24.png": "/static/media/cover24.0c8039408d9864dbfe87.png",
     "static/media/log22.png": "/static/media/log22.06cb9b052352652c647d.png",
     "static/media/log46.png": "/static/media/log46.5a245dc1e99451bc8b64.png",
     "static/media/album5.png": "/static/media/album5.f18c8c2c33a587730e88.png",
+    "static/media/cover48.png": "/static/media/cover48.25f2d42b3d87b1c6169c.png",
     "static/media/log30.png": "/static/media/log30.f9d7f68de8b418f307d1.png",
     "static/media/log37.png": "/static/media/log37.5668342d6c8dd76ed5be.png",
     "static/media/log4.png": "/static/media/log4.b644e75e08cf01434ed5.png",
@@ -107,9 +115,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.d9920a5c.js.map": "/static/js/main.d9920a5c.js.map"
+    "main.c758b8d8.js.map": "/static/js/main.c758b8d8.js.map"
   },
   "entrypoints": [
-    "static/js/main.d9920a5c.js"
+    "static/js/main.c758b8d8.js"
   ]
 }
