@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a182d25d.js",
+    "main.js": "/static/js/main.289f6062.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -13,9 +13,11 @@
     "static/media/log6.png": "/static/media/log6.504b7bb1947f5f3082f6.png",
     "static/media/log7.png": "/static/media/log7.960fb2e7ac6e5daea964.png",
     "static/media/log16.png": "/static/media/log16.cbb9e32d265135c987ec.png",
+    "static/media/album15.png": "/static/media/album15.d9acb80a5277056c49f6.png",
     "static/media/log24.png": "/static/media/log24.b851538306f83e81f7ab.png",
     "static/media/log8.png": "/static/media/log8.46e4d164221a2d09ca04.png",
     "static/media/album2.png": "/static/media/album2.07b6b09c87cad2fb84f8.png",
+    "static/media/album16.png": "/static/media/album16.ef0fac2b4ff88ce849be.png",
     "static/media/log45.png": "/static/media/log45.f378738ab1b480023411.png",
     "static/media/log27.png": "/static/media/log27.a30a7472d60cf5bd20c2.png",
     "static/media/log17.png": "/static/media/log17.3bd363c83ead9cb060cd.png",
@@ -42,6 +44,7 @@
     "static/media/album9.png": "/static/media/album9.9fae84118acbcdd664ca.png",
     "static/media/album11.png": "/static/media/album11.f99d9efd3a59bda6b937.png",
     "static/media/cover29.png": "/static/media/cover29.918dc8b708a9311f2dc2.png",
+    "static/media/album17.png": "/static/media/album17.c1b2682d4e5b73e67aa7.png",
     "static/media/log44.png": "/static/media/log44.6bf4077d29c9398c47e0.png",
     "static/media/cover45.png": "/static/media/cover45.53efec3d51368b3f7a66.png",
     "static/media/album13.png": "/static/media/album13.971eff148122ea618ae7.png",
@@ -115,9 +118,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.a182d25d.js.map": "/static/js/main.a182d25d.js.map"
+    "main.289f6062.js.map": "/static/js/main.289f6062.js.map"
   },
   "entrypoints": [
-    "static/js/main.a182d25d.js"
+    "static/js/main.289f6062.js"
   ]
 }
