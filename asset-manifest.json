@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.3989916f.js",
+    "main.js": "/static/js/main.e3183ab8.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -43,6 +43,7 @@
     "static/media/log41.png": "/static/media/log41.16ef2f869f13775b8723.png",
     "static/media/album6.png": "/static/media/album6.ab43f02e7fd3a9ea2e62.png",
     "static/media/log48.png": "/static/media/log48.a129e781e10746e5cdd0.png",
+    "static/media/album29.png": "/static/media/album29.217c05e4b474349f303c.png",
     "static/media/log29.png": "/static/media/log29.7ff6154f6484dd6a901d.png",
     "static/media/album20.png": "/static/media/album20.35b21535fb660636501b.png",
     "static/media/cover4.png": "/static/media/cover4.e89ab2f5e11209128b33.png",
@@ -76,10 +77,12 @@
     "static/media/cover41.png": "/static/media/cover41.a0a31b6771e760bda102.png",
     "static/media/cover12.png": "/static/media/cover12.5e3e2006f01f29ee1b5b.png",
     "static/media/cover11.png": "/static/media/cover11.d0981dcbdce6be726cfb.png",
+    "static/media/album28.png": "/static/media/album28.68a0b5b18a33b2550512.png",
     "static/media/cover7.png": "/static/media/cover7.12fd4b3dc36e2033a5e2.png",
     "static/media/cover3.png": "/static/media/cover3.ba617405a89c53b281dd.png",
     "static/media/cover16.png": "/static/media/cover16.9e9e3f85b42b7ccb8f64.png",
     "static/media/cover38.png": "/static/media/cover38.8024b0201b5cf489a5e3.png",
+    "static/media/album27.png": "/static/media/album27.05cbfca695d9ed28f860.png",
     "static/media/log32.png": "/static/media/log32.919d5e106109f96b58fa.png",
     "static/media/cover42.png": "/static/media/cover42.b3637485b8847a039748.png",
     "static/media/album22.png": "/static/media/album22.ee68aa76f61f2fdd5d00.png",
@@ -127,9 +130,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.3989916f.js.map": "/static/js/main.3989916f.js.map"
+    "main.e3183ab8.js.map": "/static/js/main.e3183ab8.js.map"
   },
   "entrypoints": [
-    "static/js/main.3989916f.js"
+    "static/js/main.e3183ab8.js"
   ]
 }
