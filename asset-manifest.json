@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a8614ddc.js",
+    "main.js": "/static/js/main.5832e2c0.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -16,6 +16,7 @@
     "static/media/log7.png": "/static/media/log7.960fb2e7ac6e5daea964.png",
     "static/media/log16.png": "/static/media/log16.cbb9e32d265135c987ec.png",
     "static/media/album31.png": "/static/media/album31.78a8e4719616bbeff3e4.png",
+    "static/media/loro.png": "/static/media/loro.80e28f1ac04a832f0ab6.png",
     "static/media/album15.png": "/static/media/album15.d9acb80a5277056c49f6.png",
     "static/media/album30.png": "/static/media/album30.2e884641bcbd2fa38f65.png",
     "static/media/log24.png": "/static/media/log24.b851538306f83e81f7ab.png",
@@ -43,6 +44,7 @@
     "static/media/cover30.png": "/static/media/cover30.ab7d29e620b21cbf3963.png",
     "static/media/album41.png": "/static/media/album41.9e26c06e989c9efcaccb.png",
     "static/media/album46.png": "/static/media/album46.da4331e285144c8431a5.png",
+    "static/media/log49.png": "/static/media/log49.90efebb8cf66914c6bfc.png",
     "static/media/album25.png": "/static/media/album25.973195cc37cf1fe9271c.png",
     "static/media/log20.png": "/static/media/log20.d5d0565e45b0daddf274.png",
     "static/media/album1.png": "/static/media/album1.effa61f309cd8a5f8e05.png",
@@ -92,6 +94,7 @@
     "static/media/picture24.jpg": "/static/media/picture24.d3e74a98fc4b970856ec.jpg",
     "static/media/cover40.png": "/static/media/cover40.44271e4a8fe655afb91c.png",
     "static/media/cover27.png": "/static/media/cover27.88beb3e5bdd37d6c676c.png",
+    "static/media/junwoo.png": "/static/media/junwoo.ceb1582da17b26f5d593.png",
     "static/media/album40.png": "/static/media/album40.e19e629dc6a2e00143ca.png",
     "static/media/cover22.png": "/static/media/cover22.687fc564dd70cde61426.png",
     "static/media/cover59.png": "/static/media/cover59.6bdf6e65cd13d86c360a.png",
@@ -101,7 +104,6 @@
     "static/media/picture10.jpg": "/static/media/picture10.f48fdf855b3ae398f7a2.jpg",
     "static/media/log26.png": "/static/media/log26.d550818950af738893d4.png",
     "static/media/cover19.png": "/static/media/cover19.e06c0744210abb5bce97.png",
-    "static/media/loro.png": "/static/media/loro.e555c68b64142778d0ef.png",
     "static/media/cover31.png": "/static/media/cover31.d88bfff7ba6220b9030c.png",
     "static/media/album48.png": "/static/media/album48.89610708ef1704fa1381.png",
     "static/media/cover28.png": "/static/media/cover28.a6f2232b49658b296404.png",
@@ -123,6 +125,7 @@
     "static/media/cover65.png": "/static/media/cover65.6bef63fa32a176a3c320.png",
     "static/media/picture7.jpg": "/static/media/picture7.effd28a73ba572f3e5b6.jpg",
     "static/media/cover67.png": "/static/media/cover67.7c84c2c7ee0bfdcd23c0.png",
+    "static/media/cover70.png": "/static/media/cover70.705af0204454191fe454.png",
     "static/media/picture14.jpg": "/static/media/picture14.cb3ba46c0be4c40cd010.jpg",
     "static/media/picture16.jpg": "/static/media/picture16.fa5be58236e1af793b06.jpg",
     "static/media/picture18.jpg": "/static/media/picture18.7435555b9d873fdef0bc.jpg",
@@ -196,9 +199,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.a8614ddc.js.map": "/static/js/main.a8614ddc.js.map"
+    "main.5832e2c0.js.map": "/static/js/main.5832e2c0.js.map"
   },
   "entrypoints": [
-    "static/js/main.a8614ddc.js"
+    "static/js/main.5832e2c0.js"
   ]
 }
