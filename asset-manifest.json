@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.cc04cd30.js",
+    "main.js": "/static/js/main.c05437f9.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -131,6 +131,7 @@
     "static/media/picture18.jpg": "/static/media/picture18.7435555b9d873fdef0bc.jpg",
     "static/media/log32.png": "/static/media/log32.919d5e106109f96b58fa.png",
     "static/media/cover42.png": "/static/media/cover42.b3637485b8847a039748.png",
+    "static/media/cover75.png": "/static/media/cover75.f799915513d5b4bf48c1.png",
     "static/media/picture3.jpg": "/static/media/picture3.0fe42a1587b1621c8d56.jpg",
     "static/media/album22.png": "/static/media/album22.ee68aa76f61f2fdd5d00.png",
     "static/media/cover8.png": "/static/media/cover8.e20cab9937494867ab19.png",
@@ -174,6 +175,7 @@
     "static/media/log15.png": "/static/media/log15.75530356c5d483281f37.png",
     "static/media/cover36.png": "/static/media/cover36.585a571ddd8e05eb6fa3.png",
     "static/media/cover71.png": "/static/media/cover71.8727c0c87d5573bf6c54.png",
+    "static/media/cover74.png": "/static/media/cover74.421a8a6b638e5339e7c9.png",
     "static/media/cover33.png": "/static/media/cover33.9af83af4f1720c334d0d.png",
     "static/media/cover9.png": "/static/media/cover9.775569cf5afb539e699a.png",
     "static/media/cover15.png": "/static/media/cover15.a3c83b7a7c2ebe5662c7.png",
@@ -199,12 +201,13 @@
     "static/media/log14.png": "/static/media/log14.4e7595778b6b0353b7b1.png",
     "static/media/log11.png": "/static/media/log11.30dbde4904314c2bd403.png",
     "static/media/log2.png": "/static/media/log2.34e06a2c6b8e3c331d40.png",
+    "static/media/uupress.png": "/static/media/uupress.357ceb1010bec9884aa3.png",
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.cc04cd30.js.map": "/static/js/main.cc04cd30.js.map"
+    "main.c05437f9.js.map": "/static/js/main.c05437f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc04cd30.js"
+    "static/js/main.c05437f9.js"
   ]
 }
