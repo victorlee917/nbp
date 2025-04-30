@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.507e1810.js",
+    "main.js": "/static/js/main.68985b19.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -82,6 +82,7 @@
     "static/media/cover46.png": "/static/media/cover46.15aa43eb216c5c9cf95e.png",
     "static/media/cover20.png": "/static/media/cover20.0c12666c023071c40388.png",
     "static/media/cover57.png": "/static/media/cover57.9d8737774ae2bd2dad75.png",
+    "static/media/cover96.png": "/static/media/cover96.f8cfe3eb6f725075c921.png",
     "static/media/cover56.png": "/static/media/cover56.7be840b9c38494a46e8d.png",
     "static/media/cover23.png": "/static/media/cover23.d5c4f8d56b7f95c3f7f6.png",
     "static/media/cover17.png": "/static/media/cover17.d6c57a382f2e9593a58e.png",
@@ -101,6 +102,7 @@
     "static/media/cover27.png": "/static/media/cover27.88beb3e5bdd37d6c676c.png",
     "static/media/junwoo.png": "/static/media/junwoo.ceb1582da17b26f5d593.png",
     "static/media/album40.png": "/static/media/album40.e19e629dc6a2e00143ca.png",
+    "static/media/cover95.png": "/static/media/cover95.acf6944f9fad49a9db4a.png",
     "static/media/cover22.png": "/static/media/cover22.687fc564dd70cde61426.png",
     "static/media/cover59.png": "/static/media/cover59.6bdf6e65cd13d86c360a.png",
     "static/media/cover5.png": "/static/media/cover5.595bdd8b576d1eda75b5.png",
@@ -119,8 +121,11 @@
     "static/media/cover11.png": "/static/media/cover11.d0981dcbdce6be726cfb.png",
     "static/media/album28.png": "/static/media/album28.68a0b5b18a33b2550512.png",
     "static/media/cover7.png": "/static/media/cover7.12fd4b3dc36e2033a5e2.png",
+    "static/media/cover97.png": "/static/media/cover97.d542ed3ccd90e908bad9.png",
     "static/media/cover82.png": "/static/media/cover82.aadf5a2e739ec02566bb.png",
+    "static/media/cover94.png": "/static/media/cover94.19e134243c8c409dd2fa.png",
     "static/media/cover3.png": "/static/media/cover3.ba617405a89c53b281dd.png",
+    "static/media/cover93.png": "/static/media/cover93.2b5f1f0ea6624d37bf7e.png",
     "static/media/picture15.jpg": "/static/media/picture15.d1217a124efcfa1f4498.jpg",
     "static/media/album44.png": "/static/media/album44.d40939e851531e95a957.png",
     "static/media/cover76.png": "/static/media/cover76.82aa09bd2cc7ff75a9f0.png",
@@ -137,6 +142,7 @@
     "static/media/picture14.jpg": "/static/media/picture14.cb3ba46c0be4c40cd010.jpg",
     "static/media/picture16.jpg": "/static/media/picture16.fa5be58236e1af793b06.jpg",
     "static/media/picture18.jpg": "/static/media/picture18.7435555b9d873fdef0bc.jpg",
+    "static/media/cover98.png": "/static/media/cover98.a2999ac2fdc951b967b2.png",
     "static/media/log32.png": "/static/media/log32.919d5e106109f96b58fa.png",
     "static/media/cover42.png": "/static/media/cover42.b3637485b8847a039748.png",
     "static/media/cover88.png": "/static/media/cover88.f1e5e22a68ad6e963749.png",
@@ -177,6 +183,7 @@
     "static/media/cover6.png": "/static/media/cover6.5053bf27bbb21a7466ce.png",
     "static/media/cover35.png": "/static/media/cover35.0acc99903eeed7f9fbbd.png",
     "static/media/cover37.png": "/static/media/cover37.38db3ed1f4bc30070a16.png",
+    "static/media/cover92.png": "/static/media/cover92.8f0e157f14238985335e.png",
     "static/media/picture20.jpg": "/static/media/picture20.dc3ad6d978c146ce9f35.jpg",
     "static/media/log12.png": "/static/media/log12.b645b7e1de3eb4b699b5.png",
     "static/media/cover66.png": "/static/media/cover66.1790ef98f7c20e8b77bc.png",
@@ -222,9 +229,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.507e1810.js.map": "/static/js/main.507e1810.js.map"
+    "main.68985b19.js.map": "/static/js/main.68985b19.js.map"
   },
   "entrypoints": [
-    "static/js/main.507e1810.js"
+    "static/js/main.68985b19.js"
   ]
 }
