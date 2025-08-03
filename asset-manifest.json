@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.86ab6cad.js",
+    "main.js": "/static/js/main.56d4b3b1.js",
     "static/media/bg.gif": "/static/media/bg.c2ec99ac609be878a0df.gif",
     "static/media/log25.png": "/static/media/log25.45f2201c9aac7cc76009.png",
     "static/media/log5.png": "/static/media/log5.266866924731a2a2285f.png",
@@ -227,6 +227,7 @@
     "static/media/log4.png": "/static/media/log4.b644e75e08cf01434ed5.png",
     "static/media/cover21.png": "/static/media/cover21.4f16cfdb4c61c3223606.png",
     "static/media/cover86.png": "/static/media/cover86.59163ad293df338cc70c.png",
+    "static/media/gyeolpress.png": "/static/media/gyeolpress.1ed54fa82f878cd2304e.png",
     "static/media/log14.png": "/static/media/log14.4e7595778b6b0353b7b1.png",
     "static/media/log11.png": "/static/media/log11.30dbde4904314c2bd403.png",
     "static/media/log2.png": "/static/media/log2.34e06a2c6b8e3c331d40.png",
@@ -234,9 +235,9 @@
     "static/media/log1.png": "/static/media/log1.f39400cd724119213f25.png",
     "static/media/instagram.png": "/static/media/instagram.248d2f8b91e70d10fbfc.png",
     "index.html": "/index.html",
-    "main.86ab6cad.js.map": "/static/js/main.86ab6cad.js.map"
+    "main.56d4b3b1.js.map": "/static/js/main.56d4b3b1.js.map"
   },
   "entrypoints": [
-    "static/js/main.86ab6cad.js"
+    "static/js/main.56d4b3b1.js"
   ]
 }
